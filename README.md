@@ -4,7 +4,7 @@
 [Webcam-Fun](https://github.com/TBragg800/Webcam-Fun)
 
 ##  Deployed:
-[Webcam-Fun](https://tbragg800.github.io/Webcam-Fun/)
+[Webcam-Fun]()
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/Webcam-Fun)
@@ -19,14 +19,13 @@
   [Questions](#Questions)
   
 ## Description
-  This is an application created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is 
-  . To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
+  This is an application created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is to create a JavaScript photo booth through the users webcam. To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
 
 ## Installation
   Simply clone the repo locally.
 
 ## Usage
-  Either open the index.html file in the browser of your choice or visit the github pages hosted application at [Webcam-Fun](https://tbragg800.github.io/Webcam-Fun/)
+  Either open the index.html file in the browser of your choice or visit the github pages hosted application at [Webcam-Fun]()
 
 ## License
   MIT License
